@@ -1,122 +1,82 @@
-[
-    {
-        "title": "Zelensky to meet Trump envoy in Turkey in bid to 'intensify' peace talks",
-        "link": "https://www.bbc.com/news/articles/c620p6jnynko"
+{
+    "1": {
+        "title": "Ukraine allies to hold talks on White House peace plan at G20",
+        "link": "https://www.bbc.com/news/articles/clyx9xnpll8o"
     },
-    {
-        "title": "Two Ukrainians working for Russia behind rail sabotage, Polish PM says",
-        "link": "https://www.bbc.com/news/articles/c4gknv8nxlzo"
+    "2": {
+        "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
+        "link": "https://www.bbc.com/news/articles/cy5g4r9l4dlo"
     },
-    {
-        "title": "Germany to resume arms exports to Israel after ceasefire",
-        "link": "https://www.bbc.com/news/articles/clygdj9w23po"
+    "3": {
+        "title": "Paris court blocks auction of earliest-known calculator",
+        "link": "https://www.bbc.com/news/articles/c2kpkq90ygno"
     },
-    {
-        "title": "France investigating Vinted over alleged links to pornographic content",
-        "link": "https://www.bbc.com/news/articles/cr5eygg0l85o"
+    "4": {
+        "title": "Ethiopia receives historic artefacts held in Germany for 100 years",
+        "link": "https://www.bbc.com/news/articles/c07m7pl3njmo"
     },
-    {
+    "5": {
+        "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
+        "link": "https://www.bbc.com/news/articles/cde6yld78d6o"
+    },
+    "6": {
+        "title": "Russian envoy Kirill Dmitriev: Putin propagandist or key to peace with Ukraine?",
+        "link": "https://www.bbc.com/news/articles/c3rjr2r72gpo"
+    },
+    "7": {
+        "title": "Italy to extradite Nord Stream blast suspect to Germany",
+        "link": "https://www.bbc.com/news/articles/c4gwgd0rjdzo"
+    },
+    "8": {
+        "title": "Albanian PM accuses Mahmood of 'ethnic stereotyping'",
+        "link": "https://www.bbc.com/news/articles/cge5e1xpgzyo"
+    },
+    "9": {
+        "title": "Dozens go on trial over North Macedonia nightclub fire that killed 63",
+        "link": "https://www.bbc.com/news/articles/cp3x3909rqvo"
+    },
+    "10": {
+        "title": "Children among 26 killed in one of Russia's deadliest strikes on western Ukraine",
+        "link": "https://www.bbc.com/news/articles/cy0yere4k0zo"
+    },
+    "11": {
+        "title": "Dutch government suspends intervention into chipmaker Nexperia",
+        "link": "https://www.bbc.com/news/articles/cz7p7j83rn1o"
+    },
+    "12": {
+        "title": "Klimt painting second-most expensive artwork sold at auction",
+        "link": "https://www.bbc.com/news/articles/cm2emm4737zo"
+    },
+    "13": {
+        "title": "Steve Rosenberg: Putin uncompromising as leaked plan reaches Moscow",
+        "link": "https://www.bbc.com/news/articles/c5y9k0mrm2ro"
+    },
+    "14": {
+        "title": "I won't be silenced, says French anti-drugs activist after murders of two brothers",
+        "link": "https://www.bbc.com/news/articles/cz6n6j0d3xpo"
+    },
+    "15": {
+        "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
+        "link": "https://www.bbc.com/news/articles/c8r08zmkjlzo"
+    },
+    "16": {
+        "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
+        "link": "https://www.bbc.com/news/articles/cz91dk0l50no"
+    },
+    "17": {
         "title": "Total faces war crimes allegations over Mozambique massacre",
         "link": "https://www.bbc.com/news/articles/c4gw119ynlxo"
     },
-    {
-        "title": "Ukraine to get up to 100 French-made Rafale fighter jets",
-        "link": "https://www.bbc.com/news/articles/cwy170jkekdo"
-    },
-    {
-        "title": "Ukraine to import US liquefied natural gas via Greece",
-        "link": "https://www.bbc.com/news/articles/c0ex0y0p31jo"
-    },
-    {
-        "title": "Lost Bach pieces performed for first time in 320 years",
-        "link": "https://www.bbc.com/news/articles/c1wlr7r747eo"
-    },
-    {
-        "title": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
-        "link": "https://www.bbc.com/news/articles/cqjwkdez71ro"
-    },
-    {
-        "title": "Fast-track deportations to be announced as part of UK asylum reforms",
-        "link": "https://www.bbc.com/news/articles/cn97ryvelz0o"
-    },
-    {
-        "title": "At least four dead after migrant boats sink in Mediterranean",
-        "link": "https://www.bbc.com/news/articles/cgkz5k5erzgo"
-    },
-    {
-        "title": "Mysterious drones have been spotted at night at airports across Europe. How worried should we be?",
-        "link": "https://www.bbc.com/news/articles/crkl3d6pegpo"
-    },
-    {
-        "title": "Was Gattuso right - is World Cup qualifying unfair on Europe?",
-        "link": "https://www.bbc.com/sport/football/articles/cp3xgvw0vd2o"
-    },
-    {
-        "title": "Should Hitler's DNA have been studied – or just left alone?",
-        "link": "https://www.bbc.com/news/articles/c5ylw4pz83do"
-    },
-    {
-        "title": "From florist to drone maker: How the weapon became so mainstream",
-        "link": "https://www.bbc.com/news/articles/c4g3ydv2ygro"
-    },
-    {
-        "title": "Russia's attacks have ramped up - Ukraine is fighting to hold on through another winter",
-        "link": "https://www.bbc.com/news/articles/cly98qp99l8o"
-    },
-    {
+    "18": {
         "title": "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv",
         "link": "https://www.bbc.com/news/videos/c3w9je1d3jno"
     },
-    {
+    "19": {
         "title": "Russia's AI robot falls seconds after being unveiled",
         "link": "https://www.bbc.com/news/videos/crre8g5e45jo"
     },
-    {
+    "20": {
         "title": "Queues and protests: BBC at the Shein store opening in Paris",
         "link": "https://www.bbc.com/news/videos/cr435x7360eo"
-    },
-    {
-        "title": "Watch: Train smashes into truck at Dutch level crossing",
-        "link": "https://www.bbc.com/news/videos/ced65d0gl2eo"
-    },
-    {
-        "title": "Watch: Moment nuclear plant towers collapse during demolition",
-        "link": "https://www.bbc.com/news/videos/cd7rgp2zlwgo"
-    },
-    {
-        "title": "Vigils held for five young people killed in Louth crash",
-        "link": "https://www.bbc.com/news/articles/cz0xknnj5k4o"
-    },
-    {
-        "title": "Suspected Hezbollah member goes on trial in Germany",
-        "link": "https://www.bbc.com/news/articles/cvg72r6myz4o"
-    },
-    {
-        "title": "Bodies of missing mum and child found in freezers in Austria",
-        "link": "https://www.bbc.com/news/articles/c740290l8gzo"
-    },
-    {
-        "title": "Irish teacher Enoch Burke returns to prison after 'fanatical campaign'",
-        "link": "https://www.bbc.com/news/articles/c17p4x89q0do"
-    },
-    {
-        "title": "Zelensky to meet Trump envoy in Turkey in bid to 'intensify' peace talks",
-        "link": "https://www.bbc.com/news/articles/c620p6jnynko"
-    },
-    {
-        "title": "Two Ukrainians working for Russia behind rail sabotage, Polish PM says",
-        "link": "https://www.bbc.com/news/articles/c4gknv8nxlzo"
-    },
-    {
-        "title": "Simon Harris announced as new Irish finance minister",
-        "link": "https://www.bbc.com/news/articles/cz0xk92rgj4o"
-    },
-    {
-        "title": "Derry flights and Newry theatre get a share of €50m Dublin funding",
-        "link": "https://www.bbc.com/news/articles/cdx41q5kykdo"
-    },
-    {
-        "title": "Third man charged after fire at asylum accommodation",
-        "link": "https://www.bbc.com/news/articles/ce8693p0yv2o"
     }
-]
+}
