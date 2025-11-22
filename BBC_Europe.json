@@ -1,82 +1,22 @@
 {
-    "1": {
-        "title": "Ukraine allies to hold talks on White House peace plan at G20",
-        "link": "https://www.bbc.com/news/articles/clyx9xnpll8o"
-    },
-    "2": {
-        "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
-        "link": "https://www.bbc.com/news/articles/cy5g4r9l4dlo"
-    },
-    "3": {
-        "title": "Paris court blocks auction of earliest-known calculator",
-        "link": "https://www.bbc.com/news/articles/c2kpkq90ygno"
-    },
-    "4": {
-        "title": "Ethiopia receives historic artefacts held in Germany for 100 years",
-        "link": "https://www.bbc.com/news/articles/c07m7pl3njmo"
-    },
-    "5": {
-        "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
-        "link": "https://www.bbc.com/news/articles/cde6yld78d6o"
-    },
-    "6": {
-        "title": "Russian envoy Kirill Dmitriev: Putin propagandist or key to peace with Ukraine?",
-        "link": "https://www.bbc.com/news/articles/c3rjr2r72gpo"
-    },
-    "7": {
-        "title": "Italy to extradite Nord Stream blast suspect to Germany",
-        "link": "https://www.bbc.com/news/articles/c4gwgd0rjdzo"
-    },
-    "8": {
-        "title": "Albanian PM accuses Mahmood of 'ethnic stereotyping'",
-        "link": "https://www.bbc.com/news/articles/cge5e1xpgzyo"
-    },
-    "9": {
-        "title": "Dozens go on trial over North Macedonia nightclub fire that killed 63",
-        "link": "https://www.bbc.com/news/articles/cp3x3909rqvo"
-    },
-    "10": {
-        "title": "Children among 26 killed in one of Russia's deadliest strikes on western Ukraine",
-        "link": "https://www.bbc.com/news/articles/cy0yere4k0zo"
-    },
-    "11": {
-        "title": "Dutch government suspends intervention into chipmaker Nexperia",
-        "link": "https://www.bbc.com/news/articles/cz7p7j83rn1o"
-    },
-    "12": {
-        "title": "Klimt painting second-most expensive artwork sold at auction",
-        "link": "https://www.bbc.com/news/articles/cm2emm4737zo"
-    },
-    "13": {
-        "title": "Steve Rosenberg: Putin uncompromising as leaked plan reaches Moscow",
-        "link": "https://www.bbc.com/news/articles/c5y9k0mrm2ro"
-    },
-    "14": {
-        "title": "I won't be silenced, says French anti-drugs activist after murders of two brothers",
-        "link": "https://www.bbc.com/news/articles/cz6n6j0d3xpo"
-    },
-    "15": {
-        "title": "Ukrainian teen saboteurs recruited on Telegram to attack their own country",
-        "link": "https://www.bbc.com/news/articles/c8r08zmkjlzo"
-    },
-    "16": {
-        "title": "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet",
-        "link": "https://www.bbc.com/news/articles/cz91dk0l50no"
-    },
-    "17": {
-        "title": "Total faces war crimes allegations over Mozambique massacre",
-        "link": "https://www.bbc.com/news/articles/c4gw119ynlxo"
-    },
-    "18": {
-        "title": "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv",
-        "link": "https://www.bbc.com/news/videos/c3w9je1d3jno"
-    },
-    "19": {
-        "title": "Russia's AI robot falls seconds after being unveiled",
-        "link": "https://www.bbc.com/news/videos/crre8g5e45jo"
-    },
-    "20": {
-        "title": "Queues and protests: BBC at the Shein store opening in Paris",
-        "link": "https://www.bbc.com/news/videos/cr435x7360eo"
-    }
+    "Ukraine allies to hold talks on White House peace plan at G20": "https://www.bbc.com/news/articles/clyx9xnpll8o",
+    "Zelensky warns Ukraine risks losing US support over White House peace plan": "https://www.bbc.com/news/articles/cy5g4r9l4dlo",
+    "Paris court blocks auction of earliest-known calculator": "https://www.bbc.com/news/articles/c2kpkq90ygno",
+    "Ethiopia receives historic artefacts held in Germany for 100 years": "https://www.bbc.com/news/articles/c07m7pl3njmo",
+    "What we know about leaked US draft plan to end Russia's Ukraine war": "https://www.bbc.com/news/articles/cde6yld78d6o",
+    "Russian envoy Kirill Dmitriev: Putin propagandist or key to peace with Ukraine?": "https://www.bbc.com/news/articles/c3rjr2r72gpo",
+    "Italy to extradite Nord Stream blast suspect to Germany": "https://www.bbc.com/news/articles/c4gwgd0rjdzo",
+    "Albanian PM accuses Mahmood of 'ethnic stereotyping'": "https://www.bbc.com/news/articles/cge5e1xpgzyo",
+    "Dozens go on trial over North Macedonia nightclub fire that killed 63": "https://www.bbc.com/news/articles/cp3x3909rqvo",
+    "Children among 26 killed in one of Russia's deadliest strikes on western Ukraine": "https://www.bbc.com/news/articles/cy0yere4k0zo",
+    "Dutch government suspends intervention into chipmaker Nexperia": "https://www.bbc.com/news/articles/cz7p7j83rn1o",
+    "Klimt painting second-most expensive artwork sold at auction": "https://www.bbc.com/news/articles/cm2emm4737zo",
+    "Steve Rosenberg: Putin uncompromising as leaked plan reaches Moscow": "https://www.bbc.com/news/articles/c5y9k0mrm2ro",
+    "I won't be silenced, says French anti-drugs activist after murders of two brothers": "https://www.bbc.com/news/articles/cz6n6j0d3xpo",
+    "Ukrainian teen saboteurs recruited on Telegram to attack their own country": "https://www.bbc.com/news/articles/c8r08zmkjlzo",
+    "On the front line of Europe's standoff with Russia's sanction-busting shadow fleet": "https://www.bbc.com/news/articles/cz91dk0l50no",
+    "Total faces war crimes allegations over Mozambique massacre": "https://www.bbc.com/news/articles/c4gw119ynlxo",
+    "'Astonishingly lethal': BBC reports from site of Russian strike in Kyiv": "https://www.bbc.com/news/videos/c3w9je1d3jno",
+    "Russia's AI robot falls seconds after being unveiled": "https://www.bbc.com/news/videos/crre8g5e45jo",
+    "Queues and protests: BBC at the Shein store opening in Paris": "https://www.bbc.com/news/videos/cr435x7360eo"
 }
